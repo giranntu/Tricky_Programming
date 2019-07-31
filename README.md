@@ -1,1 +1,1 @@
-### Some essential and tricky Python questions are mentioned here.
+### Some essential and tricky Programming questions are mentioned here.
