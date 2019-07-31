@@ -1,1 +1,1 @@
-# OOP_Paradigms
+# Some essential and tricky Python questions are mentioned here.
